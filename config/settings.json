@@ -1,0 +1,11 @@
+{
+  "target_ids": [],
+  "max_actions_per_run": 40,
+  "min_delay": 5,
+  "max_delay": 15,
+  "proxy": {
+    "set_proxy": false,
+    "proxy_url": "YOUR_PROXY_URL"
+
+  }
+}
